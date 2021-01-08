@@ -29,7 +29,7 @@
     "promise": "^7.1.1",
     "scrape-it": "^3.3.2",
     "shortid": "^2.2.6",
-    "socket.io": "^1.5.0",
+    "socket.io": "^2.4.0",
     "torrent-stream": "^1.0.3",
     "typescript": "^2.0.6",
     "unblocker": "^1.1.4",
